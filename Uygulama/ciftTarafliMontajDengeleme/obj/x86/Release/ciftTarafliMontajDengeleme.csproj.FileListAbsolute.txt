@@ -1,0 +1,18 @@
+D:\p-Programlama\C#\kodlar\ciftTarafliMontajDengeleme22\ciftTarafliMontajDengeleme\bin\Release\ciftTarafliMontajDengeleme.exe
+D:\p-Programlama\C#\kodlar\ciftTarafliMontajDengeleme22\ciftTarafliMontajDengeleme\bin\Release\ciftTarafliMontajDengeleme.pdb
+D:\p-Programlama\C#\kodlar\ciftTarafliMontajDengeleme22\ciftTarafliMontajDengeleme\obj\x86\Release\ResolveAssemblyReference.cache
+D:\p-Programlama\C#\kodlar\ciftTarafliMontajDengeleme22\ciftTarafliMontajDengeleme\obj\x86\Release\ciftTarafliMontajDengeleme.Form1.resources
+D:\p-Programlama\C#\kodlar\ciftTarafliMontajDengeleme22\ciftTarafliMontajDengeleme\obj\x86\Release\ciftTarafliMontajDengeleme.Properties.Resources.resources
+D:\p-Programlama\C#\kodlar\ciftTarafliMontajDengeleme22\ciftTarafliMontajDengeleme\obj\x86\Release\GenerateResource.read.1.tlog
+D:\p-Programlama\C#\kodlar\ciftTarafliMontajDengeleme22\ciftTarafliMontajDengeleme\obj\x86\Release\GenerateResource.write.1.tlog
+D:\p-Programlama\C#\kodlar\ciftTarafliMontajDengeleme22\ciftTarafliMontajDengeleme\obj\x86\Release\ciftTarafliMontajDengeleme.exe
+D:\p-Programlama\C#\kodlar\ciftTarafliMontajDengeleme22\ciftTarafliMontajDengeleme\obj\x86\Release\ciftTarafliMontajDengeleme.pdb
+D:\p-Programlama\C#\rapor 1Genetik Algoritma ile Çift Taraflı Montaj Hattı Dengeleme\Uygulama\ciftTarafliMontajDengeleme\obj\x86\Release\ciftTarafliMontajDengeleme.exe
+D:\p-Programlama\C#\rapor 1Genetik Algoritma ile Çift Taraflı Montaj Hattı Dengeleme\Uygulama\ciftTarafliMontajDengeleme\obj\x86\Release\ciftTarafliMontajDengeleme.pdb
+D:\p-Programlama\C#\rapor 1Genetik Algoritma ile Çift Taraflı Montaj Hattı Dengeleme\Uygulama\ciftTarafliMontajDengeleme\bin\Release\ciftTarafliMontajDengeleme.exe
+D:\p-Programlama\C#\rapor 1Genetik Algoritma ile Çift Taraflı Montaj Hattı Dengeleme\Uygulama\ciftTarafliMontajDengeleme\bin\Release\ciftTarafliMontajDengeleme.pdb
+D:\p-Programlama\C#\rapor 1Genetik Algoritma ile Çift Taraflı Montaj Hattı Dengeleme\Uygulama\ciftTarafliMontajDengeleme\obj\x86\Release\ResolveAssemblyReference.cache
+D:\p-Programlama\C#\rapor 1Genetik Algoritma ile Çift Taraflı Montaj Hattı Dengeleme\Uygulama\ciftTarafliMontajDengeleme\obj\x86\Release\ciftTarafliMontajDengeleme.Form1.resources
+D:\p-Programlama\C#\rapor 1Genetik Algoritma ile Çift Taraflı Montaj Hattı Dengeleme\Uygulama\ciftTarafliMontajDengeleme\obj\x86\Release\ciftTarafliMontajDengeleme.Properties.Resources.resources
+D:\p-Programlama\C#\rapor 1Genetik Algoritma ile Çift Taraflı Montaj Hattı Dengeleme\Uygulama\ciftTarafliMontajDengeleme\obj\x86\Release\GenerateResource.read.1.tlog
+D:\p-Programlama\C#\rapor 1Genetik Algoritma ile Çift Taraflı Montaj Hattı Dengeleme\Uygulama\ciftTarafliMontajDengeleme\obj\x86\Release\GenerateResource.write.1.tlog

@@ -1,0 +1,36 @@
+c:\users\bulent\documents\visual studio 2010\Projects\ciftTarafliMontajDengeleme\ciftTarafliMontajDengeleme\bin\Debug\ciftTarafliMontajDengeleme.exe
+c:\users\bulent\documents\visual studio 2010\Projects\ciftTarafliMontajDengeleme\ciftTarafliMontajDengeleme\bin\Debug\ciftTarafliMontajDengeleme.pdb
+c:\users\bulent\documents\visual studio 2010\Projects\ciftTarafliMontajDengeleme\ciftTarafliMontajDengeleme\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\bulent\documents\visual studio 2010\Projects\ciftTarafliMontajDengeleme\ciftTarafliMontajDengeleme\obj\x86\Debug\ciftTarafliMontajDengeleme.Form1.resources
+c:\users\bulent\documents\visual studio 2010\Projects\ciftTarafliMontajDengeleme\ciftTarafliMontajDengeleme\obj\x86\Debug\ciftTarafliMontajDengeleme.Properties.Resources.resources
+c:\users\bulent\documents\visual studio 2010\Projects\ciftTarafliMontajDengeleme\ciftTarafliMontajDengeleme\obj\x86\Debug\GenerateResource.read.1.tlog
+c:\users\bulent\documents\visual studio 2010\Projects\ciftTarafliMontajDengeleme\ciftTarafliMontajDengeleme\obj\x86\Debug\GenerateResource.write.1.tlog
+c:\users\bulent\documents\visual studio 2010\Projects\ciftTarafliMontajDengeleme\ciftTarafliMontajDengeleme\obj\x86\Debug\ciftTarafliMontajDengeleme.exe
+c:\users\bulent\documents\visual studio 2010\Projects\ciftTarafliMontajDengeleme\ciftTarafliMontajDengeleme\obj\x86\Debug\ciftTarafliMontajDengeleme.pdb
+D:\p-Programlama\C#\ciftTarafliMontajDengeleme\ciftTarafliMontajDengeleme\obj\x86\Debug\ciftTarafliMontajDengeleme.exe
+D:\p-Programlama\C#\ciftTarafliMontajDengeleme\ciftTarafliMontajDengeleme\obj\x86\Debug\ciftTarafliMontajDengeleme.pdb
+D:\p-Programlama\C#\ciftTarafliMontajDengeleme\ciftTarafliMontajDengeleme\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\p-Programlama\C#\ciftTarafliMontajDengeleme\ciftTarafliMontajDengeleme\obj\x86\Debug\ciftTarafliMontajDengeleme.Form1.resources
+D:\p-Programlama\C#\ciftTarafliMontajDengeleme\ciftTarafliMontajDengeleme\obj\x86\Debug\ciftTarafliMontajDengeleme.Properties.Resources.resources
+D:\p-Programlama\C#\ciftTarafliMontajDengeleme\ciftTarafliMontajDengeleme\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\p-Programlama\C#\ciftTarafliMontajDengeleme\ciftTarafliMontajDengeleme\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\p-Programlama\C#\ciftTarafliMontajDengeleme\ciftTarafliMontajDengeleme\bin\Debug\ciftTarafliMontajDengeleme.exe
+D:\p-Programlama\C#\ciftTarafliMontajDengeleme\ciftTarafliMontajDengeleme\bin\Debug\ciftTarafliMontajDengeleme.pdb
+D:\p-Programlama\C#\Genetik Algoritma ile Çift Taraflı Montaj Hattı Dengeleme\Projenin Kaynak Kodları\ciftTarafliMontajDengeleme\ciftTarafliMontajDengeleme\obj\x86\Debug\ciftTarafliMontajDengeleme.exe
+D:\p-Programlama\C#\Genetik Algoritma ile Çift Taraflı Montaj Hattı Dengeleme\Projenin Kaynak Kodları\ciftTarafliMontajDengeleme\ciftTarafliMontajDengeleme\obj\x86\Debug\ciftTarafliMontajDengeleme.pdb
+D:\p-Programlama\C#\Genetik Algoritma ile Çift Taraflı Montaj Hattı Dengeleme\Projenin Kaynak Kodları\ciftTarafliMontajDengeleme\ciftTarafliMontajDengeleme\bin\Debug\ciftTarafliMontajDengeleme.exe
+D:\p-Programlama\C#\Genetik Algoritma ile Çift Taraflı Montaj Hattı Dengeleme\Projenin Kaynak Kodları\ciftTarafliMontajDengeleme\ciftTarafliMontajDengeleme\bin\Debug\ciftTarafliMontajDengeleme.pdb
+D:\p-Programlama\C#\Genetik Algoritma ile Çift Taraflı Montaj Hattı Dengeleme\Projenin Kaynak Kodları\ciftTarafliMontajDengeleme\ciftTarafliMontajDengeleme\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\p-Programlama\C#\Genetik Algoritma ile Çift Taraflı Montaj Hattı Dengeleme\Projenin Kaynak Kodları\ciftTarafliMontajDengeleme\ciftTarafliMontajDengeleme\obj\x86\Debug\ciftTarafliMontajDengeleme.Form1.resources
+D:\p-Programlama\C#\Genetik Algoritma ile Çift Taraflı Montaj Hattı Dengeleme\Projenin Kaynak Kodları\ciftTarafliMontajDengeleme\ciftTarafliMontajDengeleme\obj\x86\Debug\ciftTarafliMontajDengeleme.Properties.Resources.resources
+D:\p-Programlama\C#\Genetik Algoritma ile Çift Taraflı Montaj Hattı Dengeleme\Projenin Kaynak Kodları\ciftTarafliMontajDengeleme\ciftTarafliMontajDengeleme\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\p-Programlama\C#\Genetik Algoritma ile Çift Taraflı Montaj Hattı Dengeleme\Projenin Kaynak Kodları\ciftTarafliMontajDengeleme\ciftTarafliMontajDengeleme\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\p-Programlama\C#\kodlar\ciftTarafliMontajDengeleme22\ciftTarafliMontajDengeleme\obj\x86\Debug\ciftTarafliMontajDengeleme.exe
+D:\p-Programlama\C#\kodlar\ciftTarafliMontajDengeleme22\ciftTarafliMontajDengeleme\obj\x86\Debug\ciftTarafliMontajDengeleme.pdb
+D:\p-Programlama\C#\kodlar\ciftTarafliMontajDengeleme22\ciftTarafliMontajDengeleme\bin\Debug\ciftTarafliMontajDengeleme.exe
+D:\p-Programlama\C#\kodlar\ciftTarafliMontajDengeleme22\ciftTarafliMontajDengeleme\bin\Debug\ciftTarafliMontajDengeleme.pdb
+D:\p-Programlama\C#\kodlar\ciftTarafliMontajDengeleme22\ciftTarafliMontajDengeleme\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\p-Programlama\C#\kodlar\ciftTarafliMontajDengeleme22\ciftTarafliMontajDengeleme\obj\x86\Debug\ciftTarafliMontajDengeleme.Form1.resources
+D:\p-Programlama\C#\kodlar\ciftTarafliMontajDengeleme22\ciftTarafliMontajDengeleme\obj\x86\Debug\ciftTarafliMontajDengeleme.Properties.Resources.resources
+D:\p-Programlama\C#\kodlar\ciftTarafliMontajDengeleme22\ciftTarafliMontajDengeleme\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\p-Programlama\C#\kodlar\ciftTarafliMontajDengeleme22\ciftTarafliMontajDengeleme\obj\x86\Debug\GenerateResource.write.1.tlog
